@@ -71,20 +71,5 @@ If you download 3 videos, you will get:
 
 ---
 
-## 🛠️ Troubleshooting
 
-- **Permission denied?** Try running the script with elevated privileges or choose a different folder.
-- **Video unavailable or private?** Ensure the URLs are accessible publicly.
-- **Unsupported URL?** Make sure you’re using **YouTube Shorts** links (format: `https://www.youtube.com/shorts/<ID>`).
 
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙌 Credits
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — core downloading functionality
